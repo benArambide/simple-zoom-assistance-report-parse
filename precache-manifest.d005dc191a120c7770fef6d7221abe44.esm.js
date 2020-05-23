@@ -24,35 +24,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-zoom-assistance-report-parse/assets/icons/mstile-150x150.png"
   },
   {
-    "revision": "e62d0880671f0b6defec",
-    "url": "/simple-zoom-assistance-report-parse/bundle.1075d.css"
+    "revision": "71dbe46294910eb50fe5",
+    "url": "/simple-zoom-assistance-report-parse/bundle.0cee9.esm.js"
   },
   {
-    "revision": "e62d0880671f0b6defec",
-    "url": "/simple-zoom-assistance-report-parse/bundle.c21a4.esm.js"
+    "revision": "71dbe46294910eb50fe5",
+    "url": "/simple-zoom-assistance-report-parse/bundle.b0c50.css"
   },
   {
-    "revision": "b82954cdbd45b26e8898ecccd03098ff",
+    "revision": "6d99f809e615fe463b0faf70be6e15c7",
     "url": "/simple-zoom-assistance-report-parse/index.html"
   },
   {
     "revision": "aa55462dad6bd4e072ee",
     "url": "/simple-zoom-assistance-report-parse/polyfills.c577e.esm.js"
-  },
-  {
-    "revision": "27328e0dbc7d9880b5af",
-    "url": "/simple-zoom-assistance-report-parse/route-home.chunk.e0e71.esm.js"
-  },
-  {
-    "revision": "27328e0dbc7d9880b5af",
-    "url": "/simple-zoom-assistance-report-parse/route-home.chunk.e6c71.css"
-  },
-  {
-    "revision": "d69fad3b35dc892e7a56",
-    "url": "/simple-zoom-assistance-report-parse/route-profile.chunk.62c75.css"
-  },
-  {
-    "revision": "d69fad3b35dc892e7a56",
-    "url": "/simple-zoom-assistance-report-parse/route-profile.chunk.bb02f.esm.js"
   }
 ]);

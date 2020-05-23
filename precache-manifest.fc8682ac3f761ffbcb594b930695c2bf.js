@@ -24,15 +24,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-zoom-assistance-report-parse/assets/icons/mstile-150x150.png"
   },
   {
-    "revision": "e62d0880671f0b6defec",
-    "url": "/simple-zoom-assistance-report-parse/bundle.1075d.css"
+    "revision": "71dbe46294910eb50fe5",
+    "url": "/simple-zoom-assistance-report-parse/bundle.71dbe.js"
   },
   {
-    "revision": "e62d0880671f0b6defec",
-    "url": "/simple-zoom-assistance-report-parse/bundle.e62d0.js"
+    "revision": "71dbe46294910eb50fe5",
+    "url": "/simple-zoom-assistance-report-parse/bundle.b0c50.css"
   },
   {
-    "revision": "b82954cdbd45b26e8898ecccd03098ff",
+    "revision": "6d99f809e615fe463b0faf70be6e15c7",
     "url": "/simple-zoom-assistance-report-parse/index.html"
   },
   {
@@ -40,27 +40,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-zoom-assistance-report-parse/polyfills.aa554.js"
   },
   {
-    "revision": "27328e0dbc7d9880b5af",
-    "url": "/simple-zoom-assistance-report-parse/route-home.chunk.27328.js"
-  },
-  {
-    "revision": "27328e0dbc7d9880b5af",
-    "url": "/simple-zoom-assistance-report-parse/route-home.chunk.e6c71.css"
-  },
-  {
-    "revision": "d69fad3b35dc892e7a56",
-    "url": "/simple-zoom-assistance-report-parse/route-profile.chunk.62c75.css"
-  },
-  {
-    "revision": "d69fad3b35dc892e7a56",
-    "url": "/simple-zoom-assistance-report-parse/route-profile.chunk.d69fa.js"
-  },
-  {
     "revision": "144c6ff1323d2d15182a7d2af08d027e",
     "url": "/simple-zoom-assistance-report-parse/sw-debug.js"
   },
   {
-    "revision": "7b09c6d62bff326257ead77c9262c8ec",
+    "revision": "ad93fd0d80e72f24543718dc7714251a",
     "url": "/simple-zoom-assistance-report-parse/sw-esm.js"
   },
   {
