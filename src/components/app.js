@@ -1,11 +1,10 @@
 import { h, Component } from 'preact';
-import { Router } from 'preact-router';
 
 import Header from './header';
 
-// Code-splitting is automated for routes
-import Home from '../routes/home';
-import Profile from '../routes/profile';
+import ParseAssistance from "./parser-assistance";
+// eslint-disable-next-line no-unused-vars
+import React from "preact/compat";
 
 export default class App extends Component {
 	
@@ -21,11 +20,9 @@ export default class App extends Component {
 		return (
 			<div id="app">
 				<Header />
-				<Router onChange={this.handleRoute}>
-					<Home path="/" />
-					<Profile path="/profile/" user="me" />
-					<Profile path="/profile/:user" />
-				</Router>
+				<div className={'ro-main'}>
+					<ParseAssistance />
+				</div>
 			</div>
 		);
 	}

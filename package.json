@@ -8,7 +8,9 @@
     "serve": "sirv build --cors --single",
     "dev": "preact watch -p 3001",
     "lint": "eslint src",
-    "test": "jest"
+    "test": "jest",
+    "deploy": "gh-pages -d build",
+    "build:gh": "GITHUB_PAGES=simple-zoom-assistance-report-parse preact build && npm run deploy"
   },
   "eslintConfig": {
     "extends": "preact",
@@ -21,6 +23,7 @@
     "enzyme-adapter-preact-pure": "^2.0.0",
     "eslint": "^6.0.1",
     "eslint-config-preact": "^1.1.0",
+    "gh-pages": "^2.2.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.9.0",
     "jest-preset-preact": "^1.0.0",
